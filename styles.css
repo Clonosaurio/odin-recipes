@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-size: 48px;
+    font-family: cursive, sans-serif;
+}
+
+ul {
+    text-align: center;
+    font-size: 24px;
+    list-style: square;
+    background-color: beige;
+}
+
+.foto {
+    width: auto;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.descripcion {
+    font-size: 18px;
+    background-color: gainsboro;
+    font-family: 'Courier New', Courier, monospace;
+}
