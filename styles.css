@@ -1,17 +1,21 @@
-h1 {
+h1, h2 {
     text-align: center;
     font-size: 48px;
     font-family: cursive, sans-serif;
 }
 
-ul {
+h2 {
+    font-size: 32px;
+}
+
+.recipes {
     text-align: center;
     font-size: 24px;
     list-style: square;
     background-color: beige;
 }
 
-.foto {
+.photo {
     width: auto;
     height: 300px;
     display: block;
@@ -19,8 +23,22 @@ ul {
     margin-right: auto;
 }
 
-.descripcion {
-    font-size: 18px;
+.description {
+    font-size: 20px;
     background-color: gainsboro;
     font-family: 'Courier New', Courier, monospace;
+}
+
+.ingredients, .steps {
+    font-size: 18px;
+    background-color: honeydew;
+}
+
+.steps {
+    background-color: ivory;
+}
+
+.buttons {
+    text-align: center;
+    font-weight: bold;
 }
