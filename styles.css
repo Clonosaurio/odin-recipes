@@ -18,10 +18,9 @@ div {
 #recipes {
     text-align: center;
     font-size: 24px;
-    list-style: square;
     background-color: beige;
     border: 3px solid-flex;
-    display: flex;
+    /*display: flex;*/
 }
 
 #recipes div {
