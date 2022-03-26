@@ -11,6 +11,7 @@ h2 {
 body {
     width: 50em;
     margin: auto;
+    background-color: lightblue;
 }
 
 div {
